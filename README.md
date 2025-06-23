@@ -96,5 +96,3 @@ recommendations
 This project is for academic and educational purposes.
 
 ---
-
-Feel free to explore, adapt, and reuse the code for your own learning or projects!
