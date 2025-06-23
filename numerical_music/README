@@ -1,0 +1,14 @@
+1. Spectogram
+Plain Loop vs Plain Sound
+loop.wav este un fisier audio ciclic, simplu si cu frecvente constante, in timp ce music1.csv contine o melodie mai vairata, generata, care include 
+mai multe componente armonice si tranzitii.
+
+High Pass Sound vs Plain Sound
+Filtrul high-pass elimina sunetele joase, deci raman doar frecventele mai inalte. Asta da senzatia de sunet "mai clar". Spectrograma Plain Sound
+are energie si in zona de jos.
+
+Reverb Sound vs Plain Sound
+Reverberatia simuleaza reflexii acustice, deci sunetul dureaza mai mult in timp. Asta "lungeste" energia fiecarei frecvente, deci spectograma
+devine mai difuza. In Plain Sound, tranzitiile in timp sunt mai clare si bine delimitate.
+
+
